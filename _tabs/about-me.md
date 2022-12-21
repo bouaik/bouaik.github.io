@@ -14,11 +14,14 @@ order: 4
 
 ### <samp>I am currently working with 👇 </samp>
 
+
 <br />
 <a href="https://www.ruby-lang.org/en/" taget="_blank"><img src='/assets/images/icons/ruby.svg' width="80"/></a>
 <a href="https://rubyonrails.org/" taget="_blank"><img src='/assets/images/icons/rails.svg' width="80"/></a>
 <a href="https://www.javascript.com/" taget="_blank"><img src='/assets/images/icons/javascript.svg' width="75"/></a>
 <a href="https://reactjs.org/" taget="_blank"><img src='/assets/images/icons/react.svg' width="80"/></a>
+<a href="https://go.dev/" taget="_blank"><img src='https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg' width="100"/></a>
+<a href="https://www.rust-lang.org/" taget="_blank"><img src='http://rust-lang.org/logos/rust-logo-512x512.png' width="80"/></a>
 <a href="https://docker.com/" taget="_blank"><img src='/assets/images/icons/docker.svg' width="100" style="position: relative; top: 15px"/></a>
 <a href="https://redux.js.org/" taget="_blank"><img src='/assets/images/icons/redux.svg' width="80"/></a>
 <a href="https://webpack.js.org/" taget="_blank"><img src='/assets/images/icons/webpack.svg' width="80"/></a>
